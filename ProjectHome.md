@@ -1,0 +1,1 @@
+Placeholder for description of GSoC project detailed <a href='http://climatecode.org/activities/gsoc2011/rothenberg/'>here</a>.
